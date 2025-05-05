@@ -1,0 +1,8 @@
+beautifulsoup4==4.13.4
+certifi==2025.4.26
+cffi==1.17.1
+curl_cffi==0.10.0
+pycparser==2.22
+soupsieve==2.7
+tqdm==4.67.1
+typing_extensions==4.13.2
